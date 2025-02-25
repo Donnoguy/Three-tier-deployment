@@ -2,6 +2,9 @@
 
 Deployinga **Three-Tier Web Application** on **AWS EKS**.
 
+![Three-Tier Architecture](https://github.com/Donnoguy/Three-tier-deployment/blob/main/3-tier%20app.png)
+
+
 ## Prerequisites
 
 Before starting, ensure you have:
